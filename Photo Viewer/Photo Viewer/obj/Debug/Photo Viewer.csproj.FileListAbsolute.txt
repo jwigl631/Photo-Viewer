@@ -1,0 +1,10 @@
+D:\VSC(C#)\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe.config
+D:\VSC(C#)\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe
+D:\VSC(C#)\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.pdb
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csprojAssemblyReference.cache
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.Form1.resources
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.Properties.Resources.resources
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csproj.GenerateResource.cache
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csproj.CoreCompileInputs.cache
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.exe
+D:\VSC(C#)\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.pdb
